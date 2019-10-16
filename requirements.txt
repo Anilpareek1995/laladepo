@@ -5,4 +5,7 @@ Jinja2==2.10
 PyMySQL==0.9.3
 requests==2.22.0
 Werkzeug==0.15.2
+gunicorn==19.9.0
+itsdangerous==1.1.0
+
 
